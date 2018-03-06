@@ -1,4 +1,4 @@
-/***************** uBits dalis (alikti update, planuojami update ir pnš.) ******************/
+/****************************** uBits dalis (alikti update, planuojami update ir pnš.) *******************************/
 
 * Leisti rašyti ilgesnes žinutes (/ac, /c, /pm ir t.t.). +
 * Rašyti kiek liko iki kito achievement. -
@@ -37,3 +37,5 @@
 * Nauja multi car steal misija - Wang Cars. +
 * Nauja police chase tipo misija - Most Wanted. +
 * No respawn TDM misija. -
+
+/********************************** Laggerio dalis ***********************************/
