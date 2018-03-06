@@ -39,3 +39,11 @@
 * No respawn TDM misija. -
 
 /********************************** Laggerio dalis ***********************************/
+* Išmaišyti spawnus Derby tipo misijose.
+* Parkour tipo misijose, paėmus pirmą CP, pakeisti gametext stilių į subtitrų stilių (textdraw galima paimti iš fixes.inc).
+* Mirus lenktynių metu grąžinti į paskutinį ar priešpaskutinį CP (galima padaryti tai už tam tikrą pinigų/taškų/kreditų sumą) (jei negana to, galima padaryti laikmatį iki respawno).
+* Anti AFK (bent jau Plant The Bomb misijose).
+* Pakeisti NOS sistemą. NOS turėtų progress bar, laikant KEY_FIRE NOS kiekis mažėtų, atleidus NOS išsijungtu ir kiekis nustotų mažėti (galbūt apriboti NOS pirkimą).
+* Discord Connector.
+* Kredių pirkimas neatsijungus.
+* Pašalinti restartus.
