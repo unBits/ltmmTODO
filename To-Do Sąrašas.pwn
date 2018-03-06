@@ -1,4 +1,4 @@
-# uBits dalis (alikti update, planuojami update ir pnš.)
+/* uBits dalis (alikti update, planuojami update ir pnš.) */
 
 * Leisti rašyti ilgesnes žinutes (/ac, /c, /pm ir t.t.). +
 * Rašyti kiek liko iki kito achievement. -
@@ -12,7 +12,7 @@
 * Anti-Spawn kill. -
 * Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. -
 
-Misijų pakeitimai/trinimai/pridėjimai:
+/* Misijų pakeitimai/trinimai/pridėjimai: */
 * Begalė įvairių misijų patobulinimų, pakeitimų (pradedant nuo logiškesnių transp. priemonių, iki map klaidų ištaisymo). +/-
 * Hitman misijoje tas pats žaidėjas nebus renkamas antrą kartą. +
 * Zombie tipo misijose tapus zombiu rodyti kitus zombius minimape. -
