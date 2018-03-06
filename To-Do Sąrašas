@@ -1,4 +1,4 @@
-uBits dalis (alikti update, planuojami update ir pnš.)
+# uBits dalis (alikti update, planuojami update ir pnš.)
 
 * Leisti rašyti ilgesnes žinutes (/ac, /c, /pm ir t.t.). +
 * Rašyti kiek liko iki kito achievement. -
@@ -13,7 +13,6 @@ uBits dalis (alikti update, planuojami update ir pnš.)
 * Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. -
 
 Misijų pakeitimai/trinimai/pridėjimai:
-
 * Begalė įvairių misijų patobulinimų, pakeitimų (pradedant nuo logiškesnių transp. priemonių, iki map klaidų ištaisymo). +/-
 * Hitman misijoje tas pats žaidėjas nebus renkamas antrą kartą. +
 * Zombie tipo misijose tapus zombiu rodyti kitus zombius minimape. -
@@ -27,7 +26,6 @@ Misijų pakeitimai/trinimai/pridėjimai:
 * Hitman misijoje žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). -
 * Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). -
 * Hydra War misija perkelta į SF. +
-
 * Pašalinta In the Hell misiją, nes dėl samp sync'o normaliai nesiima HP. +
 * Pašalinta Dolphin race (skundai iš žaidėjų pusės). +
 * Pašalinta Chelyabinsk misiją (nėra realaus tikslo, tik stovėt kampe). +
@@ -35,7 +33,6 @@ Misijų pakeitimai/trinimai/pridėjimai:
 * Pašalinta Medicopter misija. +
 * Pašalinta Railway misija. +
 * Pašalinta Grand Theft Auto misija (beprasmis freeroam'as, reikia arba keisti idėją, arba visai atsisakyt jos). +
-
 * Nauja race misija - Sunset, transportas - Infernus, vieta - netoli LV (FC, LB, EQ apylinkės). +
 * Nauja multi car steal misija - Wang Cars. +
 * Nauja police chase tipo misija - Most Wanted. +
