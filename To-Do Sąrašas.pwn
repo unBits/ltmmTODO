@@ -50,12 +50,12 @@
 
 zmessage - https://github.com/Open-GTO/zmessage/releases ( + )
 
-no-reload - https://github.com/samp-anti-cheat/no-reload
+no-reload - https://github.com/samp-anti-cheat/no-reload ( + )
 rapid-fire - https://github.com/samp-anti-cheat/rapid-fire
 
-Pawn.RakNet - https://github.com/urShadow/Pawn.RakNet/releases
+Pawn.RakNet - https://github.com/urShadow/Pawn.RakNet/releases ( + )
 
-Proper-attachments-fix - https://github.com/Jelly23/Proper-attachments-fix
+Proper-attachments-fix - https://github.com/Jelly23/Proper-attachments-fix ( + )
 OnPlayerTurnUpsideDown - https://github.com/Jelly23/OnPlayerTurnUpsideDown
 RakSamp-Detector - https://github.com/Jelly23/RakSamp-Detector (dėl šito nežinau, kažkodėl pašalino temą iš forums.sa-mp.com)
 
