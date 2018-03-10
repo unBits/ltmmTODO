@@ -51,8 +51,9 @@ OnPlayerTurnUpsideDown - https://github.com/Jelly23/OnPlayerTurnUpsideDown ( + )
 * Anti AFK (bent jau Plant The Bomb misijose).
 * Pakeisti NOS sistemą. NOS turėtų progress bar, laikant KEY_FIRE NOS kiekis mažėtų, atleidus NOS išsijungtu ir kiekis nustotų mažėti (galbūt apriboti NOS pirkimą).
 * Discord Connector.
-* Kredių pirkimas neatsijungus.
+* Kreditų pirkimas neatsijungus.
 * Pašalinti restartus.
+* Steal The Car tipo misijose neleisti judinti tuščios transporto priemonės (http://wiki.sa-mp.com/wiki/OnUnoccupiedVehicleUpdate).
 
 Fix surfing invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-surfing-invisible
 Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invisible
