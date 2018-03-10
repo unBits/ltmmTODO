@@ -5,7 +5,8 @@
 * /stuck pakeltų mašiną į viršų, naudot galima kas 10 sek. (kad išvengt problemų su įsibėgėjimu ir bandymu peršokt kliūtis - mašinos velocity statyt į 0). ( + )
 * Pridėti prilipdomą objektą iš swat rinkinio atskirai (raudoną liepsną). ( + )
 * Pataikius į žaidėją su šaunamuoju ginklu pasigirs garsas, kurio nustatymus, t.y. įjungta/išjungta bus galima pakeisti su komanda /hitsound. ( + )
-* Race tipo misijose paėmus pirmą CP pranešt žaidėjui apie /fix ir /flip komandas (kaip kad parkour misijose apie /lcp). -
+* Race tipo misijose paėmus pirmą CP pranešt žaidėjui apie /fix ir /flip komandas (kaip kad parkour misijose apie /lcp). ( + )
+* Parkour tipo misijose, paėmus pirmą CP, pakeisti gametext stilių į subtitrų stilių. ( + )
 * Pakeisti skin rinkimosi vietą. ( + )
 * Uždraustas Drive-By su Deagle. ( + )
 * Lentynių misijose išjungtas mašinų colls. -
@@ -46,7 +47,6 @@ OnPlayerTurnUpsideDown - https://github.com/Jelly23/OnPlayerTurnUpsideDown ( + )
 
 /********************************** Laggerio dalis ***********************************/
 * Išmaišyti spawnus Derby tipo misijose.
-* Parkour tipo misijose, paėmus pirmą CP, pakeisti gametext stilių į subtitrų stilių (textdraw galima paimti iš fixes.inc).
 * Mirus lenktynių metu grąžinti į paskutinį ar priešpaskutinį CP (galima padaryti tai už tam tikrą pinigų/taškų/kreditų sumą) (jei negana to, galima padaryti laikmatį iki respawno).
 * Anti AFK (bent jau Plant The Bomb misijose).
 * Pakeisti NOS sistemą. NOS turėtų progress bar, laikant KEY_FIRE NOS kiekis mažėtų, atleidus NOS išsijungtu ir kiekis nustotų mažėti (galbūt apriboti NOS pirkimą).
