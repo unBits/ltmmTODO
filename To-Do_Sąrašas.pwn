@@ -36,13 +36,13 @@
 * Nauja race misija - Sunset, transportas - Infernus, vieta - netoli LV (FC, LB, EQ apylinkės). ( + )
 * Nauja multi car steal misija - Wang Cars. ( + )
 * Nauja police chase tipo misija - Most Wanted. ( + )
-* No respawn TDM misija. -
 
 zmessage - https://github.com/Open-GTO/zmessage/releases ( + )
 no-reload - https://github.com/samp-anti-cheat/no-reload ( + )
 rapid-fire - https://github.com/samp-anti-cheat/rapid-fire ( + )
 Pawn.RakNet - https://github.com/urShadow/Pawn.RakNet/releases ( + )
 Proper-attachments-fix - https://github.com/Jelly23/Proper-attachments-fix ( + )
+OnPlayerTurnUpsideDown - https://github.com/Jelly23/OnPlayerTurnUpsideDown ( + )
 
 /********************************** Laggerio dalis ***********************************/
 * Išmaišyti spawnus Derby tipo misijose.
@@ -53,8 +53,6 @@ Proper-attachments-fix - https://github.com/Jelly23/Proper-attachments-fix ( + )
 * Discord Connector.
 * Kredių pirkimas neatsijungus.
 * Pašalinti restartus.
-
-OnPlayerTurnUpsideDown - https://github.com/Jelly23/OnPlayerTurnUpsideDown
 
 Fix surfing invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-surfing-invisible
 Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invisible
