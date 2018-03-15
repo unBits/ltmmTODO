@@ -58,3 +58,4 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 * Steal The Car tipo misijose neleisti judinti tuščios transporto priemonės (http://wiki.sa-mp.com/wiki/OnUnoccupiedVehicleUpdate).
 
 AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
+ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
