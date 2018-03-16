@@ -65,19 +65,19 @@ static s_LastUpdate[MAX_PLAYERS] = {-1, ...};
 public OnPlayerConnect(playerid)
 {
 	s_LastUpdate[playerid] = GetTickCount();
-  return 1;
+	return 1;
 }
 
 public OnPlayerSpawn(playerid)
 {
 	s_LastUpdate[playerid] = GetTickCount();
-  return 1;
+	return 1;
 }
 
 public OnPlayerUpdate(playerid)
 {
 	s_LastUpdate[playerid] = GetTickCount();
-  return 1;
+	return 1;
 }
 
 static IsPlayerPaused(playerid)
