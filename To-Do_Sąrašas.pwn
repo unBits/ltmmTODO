@@ -59,3 +59,28 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 
 AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
+// IsPlayerPaused (iš weapon-config.inc (https://github.com/oscar-broman/samp-weapon-config))
+static s_LastUpdate[MAX_PLAYERS] = {-1, ...};
+
+public OnPlayerConnect(playerid)
+{
+	s_LastUpdate[playerid] = GetTickCount();
+  return 1;
+}
+
+public OnPlayerSpawn(playerid)
+{
+	s_LastUpdate[playerid] = GetTickCount();
+  return 1;
+}
+
+public OnPlayerUpdate(playerid)
+{
+	s_LastUpdate[playerid] = GetTickCount();
+  return 1;
+}
+
+static IsPlayerPaused(playerid)
+{
+	return (GetTickCount() - s_LastUpdate[playerid] > 2000);
+}
