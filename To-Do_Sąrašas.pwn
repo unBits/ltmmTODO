@@ -55,7 +55,8 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 * Discord Connector.
 * Kreditų pirkimas neatsijungus.
 * Pašalinti restartus.
-* Lenktynėse, būnant transporto priemonėje, paspaudus W tarp 1 ir GO duoti žaidėjui NOS.
+* Prieš lenktynes, būnant transporto priemonėje, paspaudus W tarp 1 ir GO duoti žaidėjui NOS.
+* Stebimo žaidėjo keitimas mygtukais.
 
 AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
