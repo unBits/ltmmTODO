@@ -55,7 +55,6 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 * Discord Connector.
 * Kreditų pirkimas neatsijungus.
 * Pašalinti restartus.
-* Steal The Car tipo misijose neleisti judinti tuščios transporto priemonės (http://wiki.sa-mp.com/wiki/OnUnoccupiedVehicleUpdate).
 * Lenktynėse, būnant transporto priemonėje, paspaudus W tarp 1 ir GO duoti žaidėjui NOS.
 
 AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
