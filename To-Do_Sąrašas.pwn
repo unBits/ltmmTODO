@@ -11,7 +11,7 @@
 * Rašyti kiek liko iki kito achievement. -
 * Lentynių misijose išjungtas mašinų colls. -
 * Anti-Spawn kill. -
-* Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. -
+* Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. ( + )
 
 /* Misijų pakeitimai/trinimai/pridėjimai: */
 * Begalė įvairių misijų patobulinimų, pakeitimų (pradedant nuo logiškesnių transp. priemonių, iki map klaidų ištaisymo). ( + )
