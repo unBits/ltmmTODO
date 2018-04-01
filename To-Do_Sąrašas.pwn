@@ -56,9 +56,28 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 * Pašalinti restartus.
 * Prieš lenktynes, būnant transporto priemonėje, paspaudus W tarp 1 ir GO duoti žaidėjui NOS.
 * Stebimo žaidėjo keitimas mygtukais.
-
 AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
+* Burning Desire padaryti, kad viena siena sveika, o kita sulūžusi.
+
+switch(random(2))
+{
+	case 0: CreateObject(3064, 2338.126, -1181.917, 1033.188, 0.0, 0.0, 90.0);
+	case 1: CreateObject(3098, 2338.126, -1181.917, 1033.188, 0.0, 0.0, 0.0);
+}
+
+switch(random(2))
+{
+	case 0: CreateObject(2950, 2330.402, -1179.15, 1030.55, 0.0, 0.0, 0.0);
+	case 1: CreateObject(3097, 2330.402, -1179.15, 1030.55, 0.0, 0.0, 0.0);
+}
+
+switch(random(2))
+{
+	case 0: CreateObject(3063, 2340.293, -1182.294, 1026.963, 0.0, 0.0, 90.0);
+	case 1: CreateObject(3099, 2340.293, -1182.294, 1026.957, 0.0, 0.0, 0.0);
+}
+
 // IsPlayerPaused (iš weapon-config.inc (https://github.com/oscar-broman/samp-weapon-config))
 static s_LastUpdate[MAX_PLAYERS] = {-1, ...};
 
