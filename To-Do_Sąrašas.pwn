@@ -4,7 +4,7 @@
 * /stuck pakeltų mašiną į viršų, naudot galima kas 10 sek. (kad išvengt problemų su įsibėgėjimu ir bandymu peršokt kliūtis - mašinos velocity statyt į 0). ( + )
 * Pridėti prilipdomą objektą iš swat rinkinio atskirai (raudoną liepsną). ( + )
 * Pataikius į žaidėją su šaunamuoju ginklu pasigirs garsas, kurio nustatymus, t.y. įjungta/išjungta bus galima pakeisti su komanda /hitsound. ( + )
-* Race tipo misijose paėmus pirmą CP pranešt žaidėjui apie /fix ir /flip komandas (kaip kad parkour misijose apie /lcp). ( + )
+* Race tipo misijose paėmus pirmą CP pranešt žaidėjui apie /fix, /flip ir /stuck komandas (kaip kad parkour misijose apie /lcp). ( + )
 * Parkour tipo misijose, paėmus pirmą CP, pakeisti gametext stilių į subtitrų stilių. ( + )
 * Pakeisti skin rinkimosi vietą. ( + )
 * Uždraustas Drive-By su Deagle. ( + )
@@ -23,6 +23,8 @@
 * Steal The Truck armijos spawne normaliai sudėtas transportas. ( + )
 * Jump sutvarkytos grotos, nes dauguma žaidėjų ne visada supranta kaip ant jų užsokt. ( + )
 * Prasidėjus Police Chase tipo misijai mini-map'as mirksės raudonai/mėlynai (panašiai kaip per GTA V). ( + )
+* Idlewood War sukeistos komandų spalvos. ( + )
+* From The Sky sutvarkytas atsiradimo taško pasukimo kampas ( + )
 * Hydra War misija perkelta į SF. ( + )
 * Pašalinta In the Hell misiją, nes dėl samp sync'o normaliai nesiima HP. ( + )
 * Pašalinta Dolphin race (skundai iš žaidėjų pusės). ( + )
@@ -58,8 +60,7 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 * Stebimo žaidėjo keitimas mygtukais.
 AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
-* Burning Desire padaryti, kad viena siena sveika, o kita sulūžusi.
-
+* Burning Desire padaryti, kad viena siena sveika, o kita sulūžusi:
 switch(random(2))
 {
 	case 0: CreateObject(3064, 2338.126, -1181.917, 1033.188, 0.0, 0.0, 90.0);
@@ -77,6 +78,8 @@ switch(random(2))
 	case 0: CreateObject(3063, 2340.293, -1182.294, 1026.963, 0.0, 0.0, 90.0);
 	case 1: CreateObject(3099, 2340.293, -1182.294, 1026.957, 0.0, 0.0, 0.0);
 }
+
+(Grotas palikti kaip yra (CreateObject(2933, 2319.18, -1183.00, 1033.00,   -57.55, 90.00, 0.00);))
 
 // IsPlayerPaused (iš weapon-config.inc (https://github.com/oscar-broman/samp-weapon-config))
 static s_LastUpdate[MAX_PLAYERS] = {-1, ...};
