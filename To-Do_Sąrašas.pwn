@@ -26,6 +26,7 @@
 * Idlewood War sukeistos komandų spalvos. ( + )
 * From The Sky sutvarkytas atsiradimo taško pasukimo kampas ( + )
 * Hydra War misija perkelta į SF. ( + )
+* Burning Desire misjoje viena siena bus sveika, o kita sulūžusi. ( + )
 * Pašalinta In the Hell misiją, nes dėl samp sync'o normaliai nesiima HP. ( + )
 * Pašalinta Dolphin race (skundai iš žaidėjų pusės). ( + )
 * Pašalinta Chelyabinsk misiją (nėra realaus tikslo, tik stovėt kampe). ( + )
@@ -60,48 +61,24 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 * Stebimo žaidėjo keitimas mygtukais.
 AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
-* Burning Desire padaryti, kad viena siena sveika, o kita sulūžusi:
-switch(random(2))
-{
-	case 0: CreateObject(3064, 2338.126, -1181.917, 1033.188, 0.0, 0.0, 90.0);
-	case 1: CreateObject(3098, 2338.126, -1181.917, 1033.188, 0.0, 0.0, 0.0);
-}
-
-switch(random(2))
-{
-	case 0: CreateObject(2950, 2330.402, -1179.15, 1030.55, 0.0, 0.0, 0.0);
-	case 1: CreateObject(3097, 2330.402, -1179.15, 1030.55, 0.0, 0.0, 0.0);
-}
-
-switch(random(2))
-{
-	case 0: CreateObject(3063, 2340.293, -1182.294, 1026.963, 0.0, 0.0, 90.0);
-	case 1: CreateObject(3099, 2340.293, -1182.294, 1026.957, 0.0, 0.0, 0.0);
-}
-
-(Grotas palikti kaip yra (CreateObject(2933, 2319.18, -1183.00, 1033.00,   -57.55, 90.00, 0.00);))
 
 // IsPlayerPaused (iš weapon-config.inc (https://github.com/oscar-broman/samp-weapon-config))
 static s_LastUpdate[MAX_PLAYERS] = {-1, ...};
-
 public OnPlayerConnect(playerid)
 {
 	s_LastUpdate[playerid] = GetTickCount();
 	return 1;
 }
-
 public OnPlayerSpawn(playerid)
 {
 	s_LastUpdate[playerid] = GetTickCount();
 	return 1;
 }
-
 public OnPlayerUpdate(playerid)
 {
 	s_LastUpdate[playerid] = GetTickCount();
 	return 1;
 }
-
 static IsPlayerPaused(playerid)
 {
 	return (GetTickCount() - s_LastUpdate[playerid] > 2000);
