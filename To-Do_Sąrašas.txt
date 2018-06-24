@@ -83,14 +83,3 @@ static IsPlayerPaused(playerid)
 {
 	return (GetTickCount() - s_LastUpdate[playerid] > 2000);
 }
-
-// Zombie
-
-foreach(new i : Player)
-{
-	if(GetPlayerTeam(i) == GetPlayerTeam(playerid))
-	{
-		SetPlayerMarkerForPlayer(playerid, i, 0xFF0000FF);
-		SetPlayerMarkerForPlayer(i, playerid, 0xFF0000FF);
-	}
-}
