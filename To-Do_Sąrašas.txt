@@ -37,7 +37,7 @@
 * Nauja race misija - Sunset, transportas - Infernus, vieta - netoli LV (FC, LB, EQ apylinkės). ( + )
 * Nauja multi car steal misija - Wang Cars. ( + )
 * Nauja police chase tipo misija - Most Wanted. ( + )
-* Zombie tipo misijose tapus zombiu rodyti kitus zombius minimape. -
+* Zombie tipo misijose tapus zombiu rodyti kitus zombius minimape. ( + )
 * Hitman misijoje žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). -
 * Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). -
 
@@ -82,14 +82,4 @@ public OnPlayerUpdate(playerid)
 static IsPlayerPaused(playerid)
 {
 	return (GetTickCount() - s_LastUpdate[playerid] > 2000);
-}
-
-// Kai žaidėjas prisijungia arba tampa zombiu
-foreach(new i : Player)
-{
-	if(i != playerid)
-	{
-		if(GetPlayerTeam(i) == playerid)
-			SetPlayerMarkerForPlayer(playerid, i, 0xFF0000FF);
-	}
 }
