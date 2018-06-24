@@ -8,10 +8,10 @@
 * Parkour tipo misijose, paėmus pirmą CP, pakeisti gametext stilių į subtitrų stilių. ( + )
 * Pakeisti skin rinkimosi vietą. ( + )
 * Uždraustas Drive-By su Deagle. ( + )
-* Rašyti kiek liko iki kito achievement. -
-* Lentynių misijose išjungtas mašinų colls. -
-* Anti-Spawn kill. -
+* Lentynių misijose išjungtas mašinų collision (pirmas 20 sek. nuo starto). ( + )
 * Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. ( + )
+* Rašyti kiek liko iki kito achievement. -
+* Anti-Spawn kill. -
 
 /* Misijų pakeitimai/trinimai/pridėjimai: */
 * Begalė įvairių misijų patobulinimų, pakeitimų (pradedant nuo logiškesnių transp. priemonių, iki map klaidų ištaisymo). ( + )
