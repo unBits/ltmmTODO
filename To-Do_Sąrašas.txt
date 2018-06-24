@@ -83,3 +83,13 @@ static IsPlayerPaused(playerid)
 {
 	return (GetTickCount() - s_LastUpdate[playerid] > 2000);
 }
+
+// Kai žaidėjas prisijungia arba tampa zombiu
+foreach(new i : Player)
+{
+	if(i != playerid)
+	{
+		if(GetPlayerTeam(i) == playerid)
+			SetPlayerMarkerForPlayer(playerid, i, 0xFF0000FF);
+	}
+}
