@@ -1,11 +1,12 @@
 High priority:
 * Stebimo žaidėjo keitimas mygtukais.
 * Kreditų pirkimas neatsijungus.
-* Nauja police chase tipo misija ......
+* Nauja police chase tipo misija - ....
 * Nauja race misija - 8Track, transportas - Hotring Racer.
 * Hitman misijoje žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
 
 Low priority:
+* Anti-Spawn kill.
 * Rašyti kiek liko iki kito achievement.
 
 /****************************** uBits dalis (alikti update, planuojami update ir pnš.) *******************************/
@@ -20,7 +21,6 @@ Low priority:
 * Uždraustas Drive-By su Deagle. ( + )
 * Lentynių misijose išjungtas mašinų collision (pirmas 20 sek. nuo starto). ( + )
 * Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. ( + )
-* Anti-Spawn kill. -
 
 /* Misijų pakeitimai/trinimai/pridėjimai: */
 * Begalė įvairių misijų patobulinimų, pakeitimų (pradedant nuo logiškesnių transp. priemonių, iki map klaidų ištaisymo). ( + )
