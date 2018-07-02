@@ -1,3 +1,13 @@
+High priority:
+* Stebimo žaidėjo keitimas mygtukais.
+* Kreditų pirkimas neatsijungus.
+* Nauja police chase tipo misija ......
+* Nauja race misija - 8Track, transportas - Hotring Racer.
+* Hitman misijoje žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
+
+Low priority:
+* Rašyti kiek liko iki kito achievement.
+
 /****************************** uBits dalis (alikti update, planuojami update ir pnš.) *******************************/
 
 * Leisti rašyti ilgesnes žinutes (/ac, /c, /pm ir t.t.). ( + )
@@ -10,9 +20,6 @@
 * Uždraustas Drive-By su Deagle. ( + )
 * Lentynių misijose išjungtas mašinų collision (pirmas 20 sek. nuo starto). ( + )
 * Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. ( + )
-* Stebimo žaidėjo keitimas mygtukais. -
-* Rašyti kiek liko iki kito achievement. -
-* Kreditų pirkimas neatsijungus. -
 * Anti-Spawn kill. -
 
 /* Misijų pakeitimai/trinimai/pridėjimai: */
@@ -41,10 +48,6 @@
 * Nauja police chase tipo misija - Most Wanted. ( + )
 * Zombie tipo misijose tapus zombiu rodyti kitus zombius minimape. ( + )
 * Anti-AFK dedant bombą Destroy the Checkpoint tipo misijose. ( + )
-* Nauja police chase tipo misija ...... -
-* Nauja race misija - 8Track, transportas - Hotring Racer. -
-* Hitman misijoje žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). -
-* Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). -
 
 zmessage - https://github.com/Open-GTO/zmessage/releases ( + )
 Pawn.RakNet - https://github.com/urShadow/Pawn.RakNet/releases ( + )
