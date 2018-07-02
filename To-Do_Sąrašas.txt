@@ -10,7 +10,9 @@
 * Uždraustas Drive-By su Deagle. ( + )
 * Lentynių misijose išjungtas mašinų collision (pirmas 20 sek. nuo starto). ( + )
 * Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. ( + )
+* Stebimo žaidėjo keitimas mygtukais. -
 * Rašyti kiek liko iki kito achievement. -
+* Kreditų pirkimas neatsijungus. -
 * Anti-Spawn kill. -
 
 /* Misijų pakeitimai/trinimai/pridėjimai: */
@@ -38,7 +40,9 @@
 * Nauja multi car steal misija - Wang Cars. ( + )
 * Nauja police chase tipo misija - Most Wanted. ( + )
 * Zombie tipo misijose tapus zombiu rodyti kitus zombius minimape. ( + )
-* Anti-AFK dedant bombą Destroy Checkpoint tip misijose. ( + )
+* Anti-AFK dedant bombą Destroy the Checkpoint tipo misijose. ( + )
+* Nauja police chase tipo misija ...... -
+* Nauja race misija - 8Track, transportas - Hotring Racer. -
 * Hitman misijoje žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). -
 * Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). -
 
@@ -54,9 +58,7 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 * Mirus lenktynių metu grąžinti į paskutinį ar priešpaskutinį CP (galima padaryti tai už tam tikrą pinigų/taškų/kreditų sumą) (jei negana to, galima padaryti laikmatį iki respawno).
 * Pakeisti NOS sistemą. NOS turėtų progress bar, laikant KEY_FIRE NOS kiekis mažėtų, atleidus NOS išsijungtu ir kiekis nustotų mažėti (galbūt apriboti NOS pirkimą).
 * Discord Connector.
-* Kreditų pirkimas neatsijungus.
 * Pašalinti restartus.
 * Prieš lenktynes, būnant transporto priemonėje, paspaudus W tarp 1 ir GO duoti žaidėjui NOS.
-* Stebimo žaidėjo keitimas mygtukais.
 AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
