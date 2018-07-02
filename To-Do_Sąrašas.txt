@@ -9,7 +9,7 @@ Low priority:
 * Anti-Spawn kill.
 * Rašyti kiek liko iki kito achievement.
 
-/****************************** uBits dalis (alikti update, planuojami update ir pnš.) *******************************/
+/********************************** uBits dalis **********************************/
 
 * Leisti rašyti ilgesnes žinutes (/ac, /c, /pm ir t.t.). ( + )
 * /stuck pakeltų mašiną į viršų, naudot galima kas 10 sek. (kad išvengt problemų su įsibėgėjimu ir bandymu peršokt kliūtis - mašinos velocity statyt į 0). ( + )
@@ -56,7 +56,7 @@ OnPlayerTurnUpsideDown - https://github.com/Jelly23/OnPlayerTurnUpsideDown ( + )
 Fix surfing invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-surfing-invisible ( + )
 Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invisible ( + )
 
-/********************************** Laggerio dalis ***********************************/
+/********************************** Laggerio dalis **********************************/
 * Išmaišyti spawnus Derby tipo misijose.
 * Mirus lenktynių metu grąžinti į paskutinį ar priešpaskutinį CP (galima padaryti tai už tam tikrą pinigų/taškų/kreditų sumą) (jei negana to, galima padaryti laikmatį iki respawno).
 * Pakeisti NOS sistemą. NOS turėtų progress bar, laikant KEY_FIRE NOS kiekis mažėtų, atleidus NOS išsijungtu ir kiekis nustotų mažėti (galbūt apriboti NOS pirkimą).
