@@ -66,3 +66,5 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 * Prieš lenktynes, būnant transporto priemonėje, paspaudus W tarp 1 ir GO duoti žaidėjui NOS.
 AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
+
+* Props Hunt - https://www.youtube.com/watch?v=WBQu9FkrVB4
