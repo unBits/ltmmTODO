@@ -59,7 +59,7 @@ Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invis
 
 /********************************** Laggerio dalis **********************************/
 * Išmaišyti spawnus Derby tipo misijose.
-* Mirus lenktynių metu grąžinti į paskutinį ar priešpaskutinį CP (galima padaryti tai už tam tikrą pinigų/taškų/kreditų sumą) (jei negana to, galima padaryti laikmatį iki respawno).
+* Mirus lenktynių metu grąžinti į paskutinį ar priešpaskutinį CP (galima padaryti tai už tam tikrą pinigų/taškų/kreditų sumą) (jei negana to, galima padaryti laikmatį iki respawno). (arba pašalinti sprogmenis iš lenktynių misijų)
 * Pakeisti NOS sistemą. NOS turėtų progress bar, laikant KEY_FIRE NOS kiekis mažėtų, atleidus NOS išsijungtu ir kiekis nustotų mažėti (galbūt apriboti NOS pirkimą).
 * Discord Connector.
 * Pašalinti restartus.
@@ -68,3 +68,15 @@ AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
 
 * Props Hunt - https://www.youtube.com/watch?v=WBQu9FkrVB4
+
+[Porno] Idlewood War padaryti ribas (gangzone ir teleport)
+[Porno] Fallout countdown
+[Lag] Police Chase misijose mapo mirgsėjima padaryti visiems???
+Most Wanted patraukti spawną ar mašinas toliau, nes gali įsėsti su G
+Neveikia Power Hit Radio ir HotFM
+[Lag] Bloodring, Stadium Race pašalinti muziką
+Collisionu bugas FIXED
+
+CP rinkimas lenktynių principu; paėmus CP iš array išrenkamas kitas random CP.
+Police Chase; Vieta - Las Venturas; Transportas - Cheetah su priattachinta sirena kaip GTA VC.
+TDM misijos Battle Royale principu - mirus nebegali žaisti.
