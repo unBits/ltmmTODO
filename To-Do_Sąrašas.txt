@@ -83,3 +83,4 @@ TDM misijos Battle Royale principu - mirus nebegali žaisti.
 
 http://forum.sa-mp.com/showthread.php?p=4046113#post4046113
 http://forum.sa-mp.com/showthread.php?t=657978
+Fix "Unoccupied" crasher - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-%22Unoccupied%22-crasher
