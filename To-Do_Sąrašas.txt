@@ -72,11 +72,7 @@ ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount
 
 [Porno] Idlewood War padaryti ribas (gangzone ir teleport)
 [Porno] Fallout countdown
-[Lag] Police Chase misijose mapo mirgsėjima padaryti visiems???
-Most Wanted patraukti spawną ar mašinas toliau, nes gali įsėsti su G
-Neveikia Power Hit Radio ir HotFM
 [Lag] Bloodring, Stadium Race pašalinti muziką
-Collisionu bugas FIXED BET XZ ISTIKRO
 
 CP rinkimas lenktynių principu; paėmus CP iš array išrenkamas kitas random CP.
 Police Chase; Vieta - Las Venturas; Transportas - Cheetah su priattachinta sirena kaip GTA VC.
