@@ -53,7 +53,7 @@ Low priority:
 zmessage - https://github.com/Open-GTO/zmessage/releases ( + )
 Pawn.RakNet - https://github.com/urShadow/Pawn.RakNet/releases ( + )
 Proper-attachments-fix - https://github.com/Jelly23/Proper-attachments-fix ( + )
-OnPlayerTurnUpsideDown - https://github.com/Jelly23/OnPlayerTurnUpsideDown ( + ) Vis tiek manau, kad už šitą galėtu kick ar ban :||
+OnPlayerTurnUpsideDown - https://github.com/Jelly23/OnPlayerTurnUpsideDown ( + )
 Fix surfing invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-surfing-invisible ( + )
 Fix aimZ invisible - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-aimZ-invisible ( + )
 Fix "Unoccupied" crasher - https://github.com/urShadow/Pawn.RakNet/wiki/Fix-%22Unoccupied%22-crasher ( + )
