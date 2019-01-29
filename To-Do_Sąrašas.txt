@@ -1,5 +1,6 @@
 High priority:
-* Stebimo žaidėjo keitimas mygtukais.
+* Anti-Spawn kill.
+* Stebimo žaidėjo keitimas pelės mygtukais.
 * Kreditų pirkimas neatsijungus.
 * Nauja police chase tipo misija - ....
 * Hitman ir Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
@@ -79,3 +80,5 @@ Police Chase; Vieta - Las Venturas; Transportas - Cheetah su priattachinta siren
 TDM misijos Battle Royale principu - mirus nebegali žaisti.
 
 https://forum.sa-mp.com/showthread.php?t=657987
+https://forum.sa-mp.com/showthread.php?t=662071
+* Anti-Spawn kill.
