@@ -6,7 +6,6 @@ High priority:
 * Hitman ir Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
 
 Low priority:
-* Anti-Spawn kill.
 * Rašyti kiek liko iki kito achievement.
 
 * Nauja race misija - 8Track, transportas - Hotring Racer. (ateity gal, reikia normalaus mapo, kurio vidury būtų galimybė susitrenkti)
