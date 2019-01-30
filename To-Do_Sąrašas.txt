@@ -4,6 +4,11 @@ High priority:
 * Kreditų pirkimas neatsijungus.
 * Nauja police chase tipo misija - ....
 * Hitman ir Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
+* Išsaugoti registracijos datą.
+* Rodyti paskutinio prisijungimo datą.
+* Kreditus pakeisti į Tokenus (geriau skamba, ne kaip kokiam grp krv xd).
+* Nolifer pasiekimą pervadint į Veteran.
+* Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
 
 Low priority:
 * Rašyti kiek liko iki kito achievement.
@@ -80,5 +85,3 @@ TDM misijos Battle Royale principu - mirus nebegali žaisti.
 
 https://forum.sa-mp.com/showthread.php?t=657987
 https://forum.sa-mp.com/showthread.php?t=662071
-
-Nolifer achievement pervadinti į Veteran ar dar ką :\\
