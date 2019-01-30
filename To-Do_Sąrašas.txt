@@ -50,6 +50,7 @@ Low priority:
 * Nauja police chase tipo misija - Most Wanted. ( + )
 * Zombie tipo misijose tapus zombiu rodyti kitus zombius minimape. ( + )
 * Anti-AFK dedant bombą Destroy the Checkpoint tipo misijose. ( + )
+* Bloodring ir Stadium Race pašalinta muzika ( + )
 
 zmessage - https://github.com/Open-GTO/zmessage/releases ( + )
 Pawn.RakNet - https://github.com/urShadow/Pawn.RakNet/releases ( + )
@@ -73,7 +74,6 @@ ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount
 
 [Porno] Idlewood War padaryti ribas (gangzone ir teleport)
 [Porno] Fallout countdown
-[Lag] Bloodring, Stadium Race pašalinti muziką
 
 CP rinkimas lenktynių principu; paėmus CP iš array išrenkamas kitas random CP.
 Police Chase; Vieta - Las Venturas; Transportas - Cheetah su priattachinta sirena kaip GTA VC.
