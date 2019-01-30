@@ -9,6 +9,7 @@ High priority:
 * Kreditus pakeisti į Tokenus (geriau skamba, ne kaip kokiam grp krv xd).
 * Nolifer pasiekimą pervadint į Veteran.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
+* Padidint rekordų skaičių iki 5 (arba 10).
 
 Low priority:
 * Rašyti kiek liko iki kito achievement.
