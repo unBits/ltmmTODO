@@ -1,0 +1,6 @@
+Naujas meniu šone žaidėjams prisijungus (vietoj teksto - mygtukai su užrašu).
+Žiūrint informaciją apie žaidėją virš jo rodyt statusų paveiksliuką.
+Rodyti žaidėjo log'us kada ir su kokiu IP pskutnį kartą buvo serveryje (saugumo sumetimams).
+Padaryt ilgai žadėtą žaidėjų palyginimą (Hardcore shit).
+
+--bus pildoma--
