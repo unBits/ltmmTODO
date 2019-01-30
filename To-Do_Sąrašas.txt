@@ -10,6 +10,7 @@ High priority:
 * Nolifer pasiekimą pervadint į Veteran.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
 * Padidint rekordų skaičių iki 5 (arba 10).
+* Galimybė pažiūrėt misijos rekordus su komanda /mrecords (jeigu ta misija aišku juos turi :D).
 
 Low priority:
 * Rašyti kiek liko iki kito achievement.
