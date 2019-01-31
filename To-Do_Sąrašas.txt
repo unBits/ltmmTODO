@@ -6,7 +6,6 @@ High priority:
 * Hitman ir Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
 * Išsaugoti registracijos datą.
 * Rodyti paskutinio prisijungimo datą.
-* Nolifer pasiekimą pervadint į Veteran.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
 * Galimybė pažiūrėt misijos rekordus su komanda /mrecords (jeigu ta misija aišku juos turi :D).
 
@@ -28,6 +27,7 @@ Low priority:
 * Uždraustas Drive-By su Deagle. ( + )
 * Lentynių misijose išjungtas mašinų collision (pirmas 20 sek. nuo starto). ( + )
 * Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. ( + )
+* Nolifer pasiekimas pervadintas į Veteran. ( + )
 
 /* Misijų pakeitimai/trinimai/pridėjimai: */
 * Begalė įvairių misijų patobulinimų, pakeitimų (pradedant nuo logiškesnių transp. priemonių, iki map klaidų ištaisymo). ( + )
