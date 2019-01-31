@@ -16,23 +16,24 @@ Low priority:
 
 /********************************** uBits dalis **********************************/
 
-* Leisti rašyti ilgesnes žinutes (/ac, /c, /pm ir t.t.). ( + )
+* Leista rašyti ilgesnes žinutes (/ac, /c, /pm ir t.t.). ( + )
 * /stuck pakeltų mašiną į viršų, naudot galima kas 10 sek. (kad išvengt problemų su įsibėgėjimu ir bandymu peršokt kliūtis - mašinos velocity statyt į 0). ( + )
-* Pridėti prilipdomą objektą iš swat rinkinio atskirai (raudoną liepsną). ( + )
+* Pridėtas prilipdomas objektas iš swat rinkinio atskirai (raudoną liepsną). ( + )
 * Pataikius į žaidėją su šaunamuoju ginklu pasigirs garsas, kurio nustatymus, t.y. įjungta/išjungta bus galima pakeisti su komanda /hitsound. ( + )
-* Race tipo misijose paėmus pirmą CP pranešt žaidėjui apie /fix, /flip ir /stuck komandas (kaip kad parkour misijose apie /lcp). ( + )
-* Parkour tipo misijose, paėmus pirmą CP, pakeisti gametext stilių į subtitrų stilių. ( + )
-* Pakeisti skin rinkimosi vietą. ( + )
+* Pakeista skin rinkimosi vieta. ( + )
 * Uždraustas Drive-By su Deagle. ( + )
-* Lentynių misijose išjungtas mašinų collision (pirmas 20 sek. nuo starto). ( + )
 * Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. ( + )
 * Nolifer pasiekimas pervadintas į Veteran. ( + )
 * Į /stats komandą apjungta: žaidėjo statistika, įspėjimai, pasiekimai. ( + )
 * Saugoma žaidėjo registracijos datą. ( + )
+* Sutvarkyta Administracijos sistema, išimtos nereikalingos komandos kaip /jail /unjail. Pridėta daugiau log'ų. ( + )
 
 /* Misijų pakeitimai/trinimai/pridėjimai: */
-* Hitman misijoje žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
 * Begalė įvairių misijų patobulinimų, pakeitimų (pradedant nuo logiškesnių transp. priemonių, iki map klaidų ištaisymo). ( + )
+* Race tipo misijose paėmus pirmą CP pranešt žaidėjui apie /fix, /flip ir /stuck komandas (kaip kad parkour misijose apie /lcp). ( + )
+* Lentynių misijose išjungtas mašinų collision (pirmas 20 sek. nuo starto). ( + )
+* Parkour tipo misijose, paėmus pirmą CP, pakeisti gametext stilių į subtitrų stilių. ( + )
+* Hitman misijoje žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). ( + )
 * Hitman misijoje tas pats žaidėjas nebus renkamas antrą kartą. ( + )
 * Skirtingų ginklų set'ai DM/TDM misijose. ( + )
 * Hunt the Osama pakeista teroristų spawno pasisukimas, rodoma Osamos gyvybės. ( + )
