@@ -3,7 +3,7 @@ High priority:
 * Stebimo žaidėjo keitimas pelės mygtukais.
 * Kreditų pirkimas neatsijungus.
 * Nauja police chase tipo misija - ....
-* Hitman ir Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
+* Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
 * Išsaugoti registracijos datą.
 * Rodyti paskutinio prisijungimo datą.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
@@ -28,8 +28,11 @@ Low priority:
 * Lentynių misijose išjungtas mašinų collision (pirmas 20 sek. nuo starto). ( + )
 * Besikeičianti mašinos spalva VIP žaidėjams. Komanda - /vcc. ( + )
 * Nolifer pasiekimas pervadintas į Veteran. ( + )
+* Į /stats komandą apjungta: žaidėjo statistika, įspėjimai, pasiekimai. ( + )
+* Saugoma žaidėjo registracijos datą. ( + )
 
 /* Misijų pakeitimai/trinimai/pridėjimai: */
+* Hitman misijoje žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
 * Begalė įvairių misijų patobulinimų, pakeitimų (pradedant nuo logiškesnių transp. priemonių, iki map klaidų ištaisymo). ( + )
 * Hitman misijoje tas pats žaidėjas nebus renkamas antrą kartą. ( + )
 * Skirtingų ginklų set'ai DM/TDM misijose. ( + )
