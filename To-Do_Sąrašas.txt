@@ -6,14 +6,13 @@ High priority:
 * Hitman ir Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
 * Išsaugoti registracijos datą.
 * Rodyti paskutinio prisijungimo datą.
-* Kreditus pakeisti į Tokenus (geriau skamba, ne kaip kokiam grp krv xd).
 * Nolifer pasiekimą pervadint į Veteran.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
-* Padidint rekordų skaičių iki 5 (arba 10).
 * Galimybė pažiūrėt misijos rekordus su komanda /mrecords (jeigu ta misija aišku juos turi :D).
 
 Low priority:
 * Rašyti kiek liko iki kito achievement.
+* Padidint rekordų skaičių iki 5.
 
 * Nauja race misija - 8Track, transportas - Hotring Racer. (ateity gal, reikia normalaus mapo, kurio vidury būtų galimybė susitrenkti)
 
