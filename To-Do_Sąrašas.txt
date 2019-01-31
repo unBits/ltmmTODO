@@ -4,7 +4,6 @@ High priority:
 * Kreditų pirkimas neatsijungus.
 * Nauja police chase tipo misija - ....
 * Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
-* Išsaugoti registracijos datą.
 * Rodyti paskutinio prisijungimo datą.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
 * Galimybė pažiūrėt misijos rekordus su komanda /mrecords (jeigu ta misija aišku juos turi :D).
