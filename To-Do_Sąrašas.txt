@@ -93,6 +93,7 @@ https://forum.sa-mp.com/showthread.php?t=662071
 Saugoti kiekvieno žaidėjo geriausią rekordą?
 https://sampcac.xyz/ gal liepti naudoti atblokuotiems žaidėjams, dėl kurių kyla dvejonių?
 Gal sugrąžinti Railway misija? xd Atrodo viskas pofik ten buvo, bet atrodo sprintint negalėdavai. Gal išeitu sutvarkyt pakeitus mapo vietą ar interjerą.
+https://forum.sa-mp.com/showthread.php?t=658995 Ką manai apie tokį? xd
 
 native IsValidVehicle(vehicleid);
 
