@@ -104,7 +104,7 @@ public OnGameModeExit()
 {
 	for(new i = 1, j = GetVehiclePoolSize(); i <= j; i += 1)
 	{
-		if(!IsValidVehicle(i))
+		if(!IsValidVehicle(i) || GetVehicleParamsSirenState(vehicleid) != 1)
 			continue;
 
 		DestroyObject(gSirenObjectID[i]);
