@@ -3,7 +3,6 @@ High priority:
 * Stebimo žaidėjo keitimas pelės mygtukais.
 * Kreditų pirkimas neatsijungus.
 * Nauja police chase tipo misija - ....
-* Police Chase misijose žaidėjas, jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio).
 * Rodyti paskutinio prisijungimo datą.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
 * Galimybė pažiūrėt misijos rekordus su komanda /mrecords (jeigu ta misija aišku juos turi :D).
@@ -60,6 +59,7 @@ Low priority:
 * Anti-AFK dedant bombą Destroy the Checkpoint tipo misijose. ( + )
 * Bloodring ir Stadium Race misijose pašalinta muzika. ( + )
 * Countdown Fallout misijoje. ( + )
+* Police Chase misijose žaidėjas (ne taikinys), jam mirus arba prisijungus, bus spawninamas arčiausiai esančioje prie taikinio pozicijoje (tačiau ne visai prie pat taikinio). ( + )
 
 zmessage - https://github.com/Open-GTO/zmessage/releases ( + )
 Pawn.RakNet - https://github.com/urShadow/Pawn.RakNet/releases ( + )
