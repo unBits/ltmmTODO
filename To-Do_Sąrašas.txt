@@ -92,3 +92,41 @@ https://forum.sa-mp.com/showthread.php?t=662071
 
 Saugoti kiekvieno žaidėjo geriausią rekordą?
 https://sampcac.xyz/ gal liepti naudoti atblokuotiems žaidėjams, dėl kurių kyla dvejonių?
+Gal sugrąžinti Railway misija? xd Atrodo viskas pofik ten buvo, bet atrodo sprintint negalėdavai. Gal išeitu sutvarkyt pakeitus mapo vietą ar interjerą.
+
+native IsValidVehicle(vehicleid);
+
+new
+	gSirenObjectID[MAX_VEHICLES];
+
+public OnGameModeExit()
+{
+	for(new i = 1, j = GetVehiclePoolSize(); i <= j; i += 1)
+	{
+		if(!IsValidVehicle(i))
+			continue;
+
+		DestroyObject(gSirenObjectID[i]);
+		DestroyVehicle(i);
+	}
+	return 1;
+}
+
+public OnVehicleDeath(vehicleid, killerid)
+{
+	if(IsValidObject(gSirenObjectID[vehicleid]))
+		DestroyObject(gSirenObjectID[vehicleid]);
+	return 1;
+}
+
+public OnVehicleSirenStateChange(playerid, vehicleid, newstate)
+{
+	if(newstate)
+	{
+		gSirenObjectID[vehicleid] = CreateObject(18646, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0);
+		AttachObjectToVehicle(gSirenObjectID[vehicleid], vehicleid, 0.417, 0.546591, 0.198918, 0.0, 0.0, 0.0);
+	}
+	else
+		DestroyObject(gSirenObjectID[vehicleid]);
+	return 1;
+}
