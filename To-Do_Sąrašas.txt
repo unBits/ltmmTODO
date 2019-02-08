@@ -3,7 +3,7 @@ High priority:
 * Stebimo žaidėjo keitimas pelės mygtukais.
 * Kreditų pirkimas neatsijungus.
 * Nauja police chase tipo misija - ....
-* Rodyti paskutinio prisijungimo datą.
+* Rodyti paskutinio prisijungimo datą. ir IP adresa???
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
 
 Low priority:
