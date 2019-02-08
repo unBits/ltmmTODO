@@ -82,9 +82,7 @@ ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount
 
 [Porno] Idlewood War padaryti ribas (gangzone ir teleport)
 
-CP rinkimas lenktynių principu; paėmus CP iš array išrenkamas kitas random CP.
 Police Chase; Vieta - Las Venturas; Transportas - Cheetah su priattachinta sirena kaip GTA VC.
-TDM misijos Battle Royale principu - mirus nebegali žaisti.
 
 https://forum.sa-mp.com/showthread.php?t=657987
 https://forum.sa-mp.com/showthread.php?t=662071
@@ -97,6 +95,10 @@ https://forum.sa-mp.com/showthread.php?t=658995 Ką manai apie tokį? xd
 Pasvarstymai del naujo hitmano :))
     Gal dabartinį perkelti į LV
     Nauja misija Los Santose, mentai gaudo ginkluotą juoduką
+
+NEZINAU DEL SITU:
+CP rinkimas lenktynių principu; paėmus CP iš array išrenkamas kitas random CP.
+TDM misijos Battle Royale principu - mirus nebegali žaisti.
 
 native IsValidVehicle(vehicleid);
 
