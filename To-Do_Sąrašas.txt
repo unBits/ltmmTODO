@@ -2,8 +2,8 @@ High priority:
 * Anti-Spawn kill.
 * Stebimo žaidėjo keitimas pelės mygtukais.
 * Kreditų pirkimas neatsijungus.
-* Nauja police chase tipo misija - ....
-* Rodyti paskutinio prisijungimo datą. ir IP adresa???
+* Nauja police chase tipo misija - ....; Vieta - Las Venturas; Transportas - Cheetah, su sirena kaip per GTA VC.
+* Rodyti paskutinio prisijungimo datą ir IP adresą.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
 
 Low priority:
@@ -76,16 +76,13 @@ AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 * Discord Connector. https://github.com/Hual/samp-discord-plugin
 * Pašalinti restartus.
 * Prieš lenktynes, būnant transporto priemonėje, paspaudus W tarp 1 ir GO duoti žaidėjui NOS.
-ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
-
+* ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
 * Props Hunt - https://www.youtube.com/watch?v=WBQu9FkrVB4
 
 [Porno] Idlewood War padaryti ribas (gangzone ir teleport)
 
-Police Chase; Vieta - Las Venturas; Transportas - Cheetah su priattachinta sirena kaip GTA VC.
-
-https://forum.sa-mp.com/showthread.php?t=657987
-https://forum.sa-mp.com/showthread.php?t=662071
+* https://forum.sa-mp.com/showthread.php?t=657987
+* https://forum.sa-mp.com/showthread.php?t=662071
 
 Saugoti kiekvieno žaidėjo geriausią rekordą?
 https://sampcac.xyz/ gal liepti naudoti atblokuotiems žaidėjams, dėl kurių kyla dvejonių?
@@ -100,15 +97,13 @@ TDM misijos Battle Royale principu - mirus nebegali žaisti.
 
 native IsValidVehicle(vehicleid);
 
-new
-	gSirenObjectID[MAX_VEHICLES];
+new gSirenObjectID[MAX_VEHICLES];
 
 public OnGameModeExit()
 {
 	for(new i = 1, j = GetVehiclePoolSize(); i <= j; i += 1)
 	{
-		if(!IsValidVehicle(i) || GetVehicleParamsSirenState(vehicleid) != 1)
-			continue;
+		if(!IsValidVehicle(i) || GetVehicleParamsSirenState(vehicleid) != 1) continue;
 
 		DestroyObject(gSirenObjectID[i]);
 		DestroyVehicle(i);
@@ -118,8 +113,7 @@ public OnGameModeExit()
 
 public OnVehicleDeath(vehicleid, killerid)
 {
-	if(IsValidObject(gSirenObjectID[vehicleid]))
-		DestroyObject(gSirenObjectID[vehicleid]);
+	if(IsValidObject(gSirenObjectID[vehicleid])) DestroyObject(gSirenObjectID[vehicleid]);
 	return 1;
 }
 
@@ -130,7 +124,6 @@ public OnVehicleSirenStateChange(playerid, vehicleid, newstate)
 		gSirenObjectID[vehicleid] = CreateObject(18646, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0);
 		AttachObjectToVehicle(gSirenObjectID[vehicleid], vehicleid, 0.417, 0.546591, 0.198918, 0.0, 0.0, 0.0);
 	}
-	else
-		DestroyObject(gSirenObjectID[vehicleid]);
+	else DestroyObject(gSirenObjectID[vehicleid]);
 	return 1;
 }
