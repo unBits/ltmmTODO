@@ -1,7 +1,6 @@
 High priority:
 * Anti-Spawn kill.
 * Stebimo žaidėjo keitimas pelės mygtukais.
-* Kreditų pirkimas neatsijungus.
 * Nauja police chase tipo misija - ....; Vieta - Las Venturas; Transportas - Cheetah, su sirena kaip per GTA VC.
 * Rodyti paskutinio prisijungimo datą ir IP adresą.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
@@ -26,6 +25,7 @@ Low priority:
 * Saugoma žaidėjo registracijos datą. ( + )
 * Sutvarkyta Administracijos sistema, išimtos nereikalingos komandos kaip /jail /unjail. Pridėta daugiau log'ų. ( + )
 * Galimybė pažiūrėt misijos rekordus su komanda /mrecords (jeigu ta misija aišku juos turi). ( + )
+* Kreditų pirkimas neatsijungus nuo serverio. ( + )
 
 /* Misijų pakeitimai/trinimai/pridėjimai: */
 * Begalė įvairių misijų patobulinimų, pakeitimų (pradedant nuo logiškesnių transp. priemonių, iki map klaidų ištaisymo). ( + )
