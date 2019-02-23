@@ -1,6 +1,5 @@
 High priority:
-* Anti-Spawn kill.
-* Nauja police chase tipo misija - ....; Vieta - Las Venturas; Transportas - Cheetah, su sirena kaip per GTA VC.
+* Nauja police chase tipo misija - Hot Pursuit; Vieta - Las Venturas; Transportas - Cheetah, su sirena kaip per GTA VC.
 * Rodyti paskutinio prisijungimo datą ir IP adresą.
 * Moderniau atrodantis valdymas, meniu langai (reikia apgalvot viską iki galo).
 
@@ -12,6 +11,7 @@ Low priority:
 
 /********************************** uBits dalis **********************************/
 
+* Anti-Spawn kill. ( + )
 * Leista rašyti ilgesnes žinutes (/ac, /c, /pm ir t.t.). ( + )
 * /stuck pakeltų mašiną į viršų, naudot galima kas 10 sek. (kad išvengt problemų su įsibėgėjimu ir bandymu peršokt kliūtis - mašinos velocity statyt į 0). ( + )
 * Pridėtas prilipdomas objektas iš swat rinkinio atskirai (raudoną liepsną). ( + )
