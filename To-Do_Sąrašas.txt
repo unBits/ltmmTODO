@@ -90,6 +90,8 @@ Gal sugrąžinti Railway misija? xd Atrodo viskas pofik ten buvo, bet atrodo spr
 
 Perkelti Hitman į LV.
 Hitman LS - PD ir juodukas.
+Prieš startą peržiūrėti ir atnaujinti visus pluginus n shit
+Gungame misijose padaryti levelio saugojima jei atsijungi ar crash
 
 NEZINAU DEL SITU:
 CP rinkimas lenktynių principu; paėmus CP iš array išrenkamas kitas random CP.
@@ -127,5 +129,3 @@ public OnVehicleSirenStateChange(playerid, vehicleid, newstate)
 	else DestroyObject(gSirenObjectID[vehicleid]);
 	return 1;
 }
-
-Atnaujinti Pawn.RakNet
