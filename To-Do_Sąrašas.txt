@@ -92,6 +92,9 @@ Perkelti Hitman į LV.
 Hitman LS - PD ir juodukas.
 Prieš startą peržiūrėti ir atnaujinti visus pluginus n shit
 Gungame misijose padaryti levelio saugojima jei atsijungi ar crash
+Renkantis skiną random dancing animacija
+Skin rinkimasis madd dogg įrašų studijoje
+Gal sugalvoti įdomesnių skin rinkimosi vietų, nes dabartinės lievos ;\\
 
 NEZINAU DEL SITU:
 CP rinkimas lenktynių principu; paėmus CP iš array išrenkamas kitas random CP.
