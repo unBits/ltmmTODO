@@ -73,7 +73,8 @@ AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 /********************************** Laggerio dalis **********************************/
 * Išmaišyti spawnus Derby tipo misijose.
 * Mirus lenktynių metu grąžinti į paskutinį ar priešpaskutinį CP (galima padaryti tai už tam tikrą pinigų/taškų/kreditų sumą) (jei negana to, galima padaryti laikmatį iki respawno). (arba pašalinti sprogmenis iš lenktynių misijų)
-* Discord Connector. https://github.com/Hual/samp-discord-plugin
+* Discord Connector. https://github.com/maddinat0r/samp-discord-connector
+* Create an issue with a 512x512 logo attached and your server's IP address. https://github.com/Hual/samp-discord-plugin (Client-side pluginas čia, būtinai padaryti)
 * Pašalinti restartus.
 * Prieš lenktynes, būnant transporto priemonėje, paspaudus W tarp 1 ir GO duoti žaidėjui NOS.
 * ShowPlayerOnScoreBoard - http://forum.sa-mp.com/showpost.php?p=4001667&postcount=184
@@ -82,18 +83,17 @@ AntiVehicleSpawn - https://github.com/urShadow/Pawn.RakNet/wiki/AntiVehicleSpawn
 [Porno] Idlewood War padaryti ribas (gangzone ir teleport)
 
 * https://forum.sa-mp.com/showthread.php?t=657987
-* https://forum.sa-mp.com/showthread.php?t=662071
 
 Saugoti kiekvieno žaidėjo geriausią rekordą?
 https://sampcac.xyz/ gal liepti naudoti atblokuotiems žaidėjams, dėl kurių kyla dvejonių?
 Gal sugrąžinti Railway misija? xd Atrodo viskas pofik ten buvo, bet atrodo sprintint negalėdavai. Gal išeitu sutvarkyt pakeitus mapo vietą ar interjerą.
 
 Perkelti Hitman į LV.
-Hitman LS - PD ir juodukas.
+Hitman LS = PD ir juodukas.
 Prieš startą peržiūrėti ir atnaujinti visus pluginus n shit
 Gungame misijose padaryti levelio saugojima jei atsijungi ar crash
 Renkantis skiną random dancing animacija
-Skin rinkimasis madd dogg įrašų studijoje
+Skin rinkimasis madd dogg įrašų studijoje (gal dar prie SF golden gate bridge arba LV prie to katino, nu tokios iconic vietos)
 Gal sugalvoti įdomesnių skin rinkimosi vietų, nes dabartinės lievos ;\\
 
 NEZINAU DEL SITU:
