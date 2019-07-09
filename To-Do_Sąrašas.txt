@@ -95,6 +95,7 @@ Skin rinkimasis madd dogg įrašų studijoje (gal dar prie SF golden gate bridge
 Char-arrays https://forum.sa-mp.com/showthread.php?t=216730
 
 NEZINAU DEL SITU:
+Gal žaidėjams padaryti drunk level 5000, kol laukiama žaidėjų?
 Perkelti Hitman į LV.
 Hitman LS = PD ir juodukas.
 CP rinkimas lenktynių principu; paėmus CP iš array išrenkamas kitas random CP.
